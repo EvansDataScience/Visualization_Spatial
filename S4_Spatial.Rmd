@@ -216,7 +216,7 @@ head(WA_zip_contri)
 ```
 
 
-``````{r, eval=FALSE}
+```{r, eval=FALSE}
 names(WA_zip_contri)[2]='AVE_Amount'
 ```
 
